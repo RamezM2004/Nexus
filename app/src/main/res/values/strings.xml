@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Link</string>
+    <string name="app_subtitle">Private Windows 11 Companion</string>
+    <string name="prototype_notice">UI Prototype Mode — Simulated Windows 11 LAN Bridge</string>
+
+    <!-- State Switcher -->
+    <string name="state_switcher_label">PROTOTYPE STATE</string>
+    <string name="state_connected">Connected</string>
+    <string name="state_loading">Connecting</string>
+    <string name="state_disconnected">Disconnected</string>
+    <string name="state_empty">Empty</string>
+    <string name="state_error">Error</string>
+
+    <!-- Navigation & Screen Titles -->
+    <string name="screen_home">Link Hub</string>
+    <string name="screen_files">File Transfer</string>
+    <string name="screen_remote">Remote Control</string>
+    <string name="screen_presentation">Presentation &amp; Pointer</string>
+    <string name="screen_media">Media Control</string>
+    <string name="screen_clipboard">Clipboard Sync</string>
+    <string name="screen_security">Connection &amp; Security</string>
+    <string name="cd_navigate_back">Navigate back to Home hub</string>
+    <string name="cd_open_security">Open Connection and Security settings</string>
+    <string name="cd_open_theme_studio">Customize theme colors</string>
+
+    <!-- Home Screen -->
+    <string name="action_connect">Connect to Laptop</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_reconnect">Retry Connection</string>
+    <string name="action_pair_device">Pair &amp; Security</string>
+    <string name="section_shortcuts">COMPANION MODULES</string>
+    <string name="section_recent_transfers">RECENT FILE TRANSFERS</string>
+    <string name="action_view_all">View All</string>
+
+    <!-- File Transfer Screen -->
+    <string name="section_shared_folders">SHARED WINDOWS FOLDERS</string>
+    <string name="section_transfer_queue">TRANSFER QUEUE &amp; HISTORY</string>
+    <string name="action_upload_photo">Upload Photo</string>
+    <string name="action_upload_file">Upload File</string>
+    <string name="action_download_sample">Download Selected Folder File</string>
+    <string name="direction_upload">UPLOAD TO PC</string>
+    <string name="direction_download">DOWNLOAD TO PHONE</string>
+
+    <!-- Remote Control Screen -->
+    <string name="touchpad_label">XL PRECISION MULTI-TOUCH POINTER</string>
+    <string name="touchpad_hint">Glide to move cursor • Tap to click • Double-tap to open • Long-press right click</string>
+    <string name="btn_left_click">Left Click</string>
+    <string name="btn_middle_click">Scroll</string>
+    <string name="btn_right_click">Right Click</string>
+    <string name="section_keyboard_controls">KEYBOARD &amp; SHORTCUTS</string>
+    <string name="section_quick_media">QUICK MEDIA PANEL</string>
+
+    <!-- Presentation & Pointer Screen -->
+    <string name="presentation_timer_label">PRESENTATION TIMER</string>
+    <string name="presentation_pointer_label">LIVE LASER POINTER &amp; SPOTLIGHT STAGE</string>
+    <string name="presentation_slide_controls">SLIDE DECK TRANSPORT</string>
+
+    <!-- Media Screen -->
+    <string name="media_source_label">WINDOWS MEDIA SESSION • YOUTUBE MUSIC READY</string>
+    <string name="media_volume_label">Master Laptop Volume</string>
+
+    <!-- Clipboard Screen -->
+    <string name="clipboard_composer_label">SEND TEXT TO WINDOWS 11</string>
+    <string name="clipboard_placeholder">Type or paste text to push to your Windows 11 clipboard…</string>
+    <string name="action_send_to_laptop">Send to Laptop</string>
+    <string name="action_copy_to_phone">Copy to Phone</string>
+    <string name="action_clear_text">Clear</string>
+    <string name="section_clipboard_history">CLIPBOARD SYNC LOG</string>
+
+    <!-- Connection & Security Screen -->
+    <string name="section_qr_pairing">QR CODE &amp; MANUAL PAIRING</string>
+    <string name="section_trusted_device">TRUSTED WORKSTATION TELEMETRY</string>
+    <string name="section_permissions">COMPANION PERMISSION CONTROLS</string>
+    <string name="action_simulate_qr">Simulate QR Code Scan</string>
+    <string name="action_verify_code">Pair with Code</string>
+    <string name="action_disconnect_revoke">Disconnect &amp; Revoke Session</string>
+</resources>

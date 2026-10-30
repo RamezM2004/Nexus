@@ -1,0 +1,6 @@
+{
+  "name": "Link",
+  "description": "Private Windows 11 companion app for Samsung phones with file transfer, remote touchpad, media controls, clipboard sync, and QR device pairing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
